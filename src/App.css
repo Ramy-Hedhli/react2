@@ -28,10 +28,35 @@
   color: #61dafb;
 }
 
+.IMG {
+  margin: 20px;
+  margin-left: 450px;
+  width: 500px;
+  display: flex;
+  align-items: center;
+}
+
+.Ramy {
+  margin-left: 50px;
+  text-align: center;
+  color: royalblue;
+  font-style: italic;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Adres {
+  margin-left: 50px;
+  text-align: center;
+  color: green;
+  font-style: italic;
+  font-size: 20px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
